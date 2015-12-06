@@ -1,2 +1,2 @@
 # shapes
-Example of every thing in html is box though different shapes
+Example of every thing in html is box, through different shapes
